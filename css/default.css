@@ -1,0 +1,36 @@
+
+body {
+    background-color: #e3f6f5;
+    overflow-wrap: break-word;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #f25042;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #f25042;
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+section {
+    background-color: #eebbc3;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+footer {
+    clear: both;
+    background-color: #b8c1ec;
+    padding: 10px;
+    border-radius: 10px;
+}

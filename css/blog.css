@@ -1,0 +1,53 @@
+
+.headings {
+    text-align: center;
+    background-color: #b8c1ec;
+    width: 30%;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 5rem;
+}
+
+.first__container {
+    width: 70%;
+    float: left;
+}
+
+.second__container section {
+    background-color: #b8c1ec;
+    border-radius: 10px;
+    margin-bottom: 10rem;
+}
+
+.github {
+    width: 30%;
+}
+
+
+.second__container {
+float: right;
+width: 25%;
+}
+
+.portofolio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid transparent;
+    outline: none;
+    border-radius: 1px;
+    background-color: #b8c1ec;
+}
+
+.portofolio img {
+    width: 30%;
+    height: 30%;
+}
+
+.info {
+    border: 1px solid #eebbc3;
+    outline: none;
+}

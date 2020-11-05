@@ -1,0 +1,44 @@
+footer {
+    text-align: center;
+}
+.footer__heading {
+ font-size: 40px;
+ text-align: center;   
+ color: #f25042;
+}
+
+footer > ul > li > a > img {
+    max-width: 100%;
+}
+
+footer > ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer ul > li {
+    list-style-type: none;
+}
+
+footer ul > li > a {
+    text-decoration: none;
+}
+
+.icons {
+    width: 50%;
+}
+
+.mails2 {
+    width: 25%;
+}
+
+.mailsOrg {
+    width: 110px;
+}
+
+.ending {
+    color: green;
+    font-size: 30px;
+}
